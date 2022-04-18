@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! ✨
+
+I'm a Python developer from Russia, founder of [Ezz Development](https://github.com/ezz-dev) and [HWOTIECRAFT](https://www.hcraft.ml) Minecraft Server. <br>
+Also I am author of some Discord bots and owner of [XeonStudios](https://zzzxeon.ml) (it is still under consruction). <br><br>
+
+#### Contacts:
+- ВКонтакте: https://vk.com/xshadowsexy
+- Discord: **xshadowsexy**#9842
 
 <!--
 **KissuneZ/KissuneZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
