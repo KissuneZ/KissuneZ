@@ -1,7 +1,6 @@
 ### Hello! ✨
 
-I'm a Python developer from Russia, founder of [Ezz Development](https://github.com/ezz-dev) and [HWOTIECRAFT](https://www.hcraft.ml) Minecraft Server. <br>
-Also I am author of some Discord bots and owner of [XeonStudios](https://zzzxeon.ml) (it is still under construction). <br>
+I'm a Python developer from Russia, founder of [Ezz Development](https://github.com/ezz-dev), [HWOTIECRAFT](https://www.hcraft.ml) Minecraft Server and author of some Discord bots. <br>
 
 #### Contacts:
 - ВКонтакте: https://vk.com/xshadowsexy
