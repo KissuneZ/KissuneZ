@@ -9,7 +9,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-2 years of Python programming expirence. For now more interested in Web development.
+2 years of Python programming experience. For now more interested in Web development.
 Unfortunately, I don't have enough time and positive mood for programming now.
 
 ***Social Media:***
