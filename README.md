@@ -9,13 +9,13 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-2 years of Python programming experience. For now more interested in Web development.
-Unfortunately, I don't have enough time and positive mood for programming now.
+2 years of Python programming experience. Also interested in web and game development.
+<br>
+Unfortunately, I don't have enough time and mood for programming now.
 
-***Social Media:***
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Discord: `@anyawolfie`
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Telegram: `@anyawolfie`
-<br>&nbsp;&nbsp;&nbsp;&nbsp;VK: [`@kissune`](https://vk.com/kissune)
+- Discord: `@anyawolfie`
+- Telegram: [`@anyawolfie`](https://t.me/anyawolfie)
+- VK: [`@kissune`](https://vk.com/kissune)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ViewCount](https://komarev.com/ghpvc/?username=KissuneZ&color=202020&style=for-the-badge)
